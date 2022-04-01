@@ -144,9 +144,3 @@ while t<=a:
     print(chr(t),end=' ')
     t+=1
     
-#6075
-n=int(input())
-a=0
-while(a<=n):
-    print(a)
-    a+=1
