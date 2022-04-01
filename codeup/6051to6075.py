@@ -55,7 +55,7 @@ print(a|b)
 #6062
 a,b=map(int,input().split())
 print(a^b)
-
+ 
 #6063
 a,b=map(int,input().split())
 if(a>=b):
